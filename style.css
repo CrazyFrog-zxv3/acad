@@ -1071,3 +1071,13 @@ html {
 .ai{
     display: none;
 }
+
+@media screen and (max-width:768px){
+    .stats div h2{
+        font-size: 20px;
+    }
+
+    .stats div span{
+        font-size: 8px;
+    }
+}
